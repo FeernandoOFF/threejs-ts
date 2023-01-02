@@ -4,3 +4,7 @@
 - GSAP
 - Vite
 - Typescript
+
+## Three Bolerplate
+
+- Create a scene
