@@ -5,6 +5,6 @@
 - Vite
 - Typescript
 
-## Three Bolerplate
+## Result
 
-- Create a scene
+![](./result.gif)
